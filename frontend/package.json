@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "apexcharts": "^4.0.0",
+    "axios": "^1.7.7",
+    "bootstrap-vue": "^2.23.1",
+    "bootstrap-vue-3": "^0.5.1",
+    "chart.js": "^4.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "pinia": "^2.2.6",
+    "vue": "^3.5.12",
+    "vue-chartjs": "^5.3.2",
+    "vue-navigation-bar": "^6.1.0",
+    "vue-router": "^4.4.5",
+    "vue-session": "^1.0.0",
+    "vue3-apexcharts": "^1.8.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "sass-embedded": "^1.81.0",
+    "tailwindcss": "^3.4.15",
+    "vite": "^5.4.10"
+  }
+}
