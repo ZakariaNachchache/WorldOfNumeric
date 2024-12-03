@@ -7,7 +7,7 @@ I hope you enjoy exploring and using this project as much as I enjoyed developin
 ## Installation 
 
 To install and run the project, follow these steps:
- Clone the repository using git clone https://github.com/your-username/your-repo.git .
+ Clone the repository using git clone repo .
  then navigate to the project directory.
  Inside the `/backend` folder, create a .env file and add the variables provided on the email: MONGO_URI & JWT_SECRET.
  Next, install the dependencies for both the backend and frontend by running npm i in their respective directories.
